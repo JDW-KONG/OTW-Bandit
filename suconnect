@@ -1,0 +1,4 @@
+This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
+
+The next level's password has been saved to: ./passwords/bandit21_pw.txt
+packet_write_wait: Connection to 176.9.9.172 port 2220: Broken pipe

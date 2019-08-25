@@ -1,0 +1,1 @@
+cat /usr/bin/cronjob_bandit23.sh | sed -n 4p | sed 's/mytarget=I am user /echo bandit23/g//g' | source /dev/stdin
